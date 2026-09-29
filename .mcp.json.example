@@ -1,0 +1,11 @@
+{
+  "mcpServers": {    
+    "shipyard": {
+      "type": "http",
+      "url": "https://shipyard.codewolf.io/mcp",
+      "headers": {
+        "Authorization": "Bearer [YOUR TOKEN]"
+      }
+    }
+  }
+}
